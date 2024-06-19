@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\TRINAM\\2024\\TEDU-CMS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F03A1271-4170-409E-A344-E7E8944BC9B1}|src\\CMS.CORE\\CMS.CORE.csproj|d:\\trinam\\2024\\tedu-cms\\src\\cms.core\\domain\\content\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03A1271-4170-409E-A344-E7E8944BC9B1}|src\\CMS.CORE\\CMS.CORE.csproj|solutionrelative:src\\cms.core\\domain\\content\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\TRINAM\\2024\\TEDU-CMS\\src\\CMS.CORE\\Domain\\Content\\Post.cs",
+              "RelativeDocumentMoniker": "src\\CMS.CORE\\Domain\\Content\\Post.cs",
+              "ToolTip": "D:\\TRINAM\\2024\\TEDU-CMS\\src\\CMS.CORE\\Domain\\Content\\Post.cs",
+              "RelativeToolTip": "src\\CMS.CORE\\Domain\\Content\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:30:39.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
